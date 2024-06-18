@@ -6,7 +6,7 @@ This repository contains the code and data used for the Datahack 2024 project, p
 
 ## Contents
 - **Atharva_Mandar_Phatak_DataHack_Code.ipynb**: Jupyter Notebook with the code used for data analysis and modeling.
-- **Atharva_Mandar_Phatak_Datahack_CSV.csv**: Dataset used for the project.
+- **Atharva_Mandar_Phatak_Datahack_CSV.csv**: The final submission file which contains the predicted probabilites.
 
 ## Requirements
 - Python 3.x
