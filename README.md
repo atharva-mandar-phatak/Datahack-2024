@@ -3,6 +3,8 @@
 
 ## Overview
 This repository contains the code and data used for the Datahack 2024 project, part of Summer Analytics 2024, IIT Guwahati. The project involves analyzing a dataset and applying machine learning techniques to derive insights and make predictions. On comparing various classcification models wiz. Logistic Regression, Naive Bayes, Random Forest Classifier, Support Vector Machine, ROC obtained for Random Forest Classifier was highest. The preprocsessing was performed using OneHotEncoder. 'Mean Data' respect to each column was used to fill-in missing values.   
+### Link to data: https://drive.google.com/file/d/1GtB9s7jzNI5R_hIAOby_OZVsU-Gz8lg7/view
+### Problem Statement: https://drive.google.com/file/d/1pB6K5HSzb5eal5Hi9Q2sJHBijh4WNPOL/view 
 
 ## Contents
 - **Atharva_Mandar_Phatak_DataHack_Code.ipynb**: Jupyter Notebook with the code used for data analysis and modeling.
