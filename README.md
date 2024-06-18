@@ -11,7 +11,7 @@ This repository contains the code and data used for the Datahack 2024 project, p
 ## Requirements
 - Python 3.x
 - Jupyter Notebook
-- NumPy
+- Numpy
 - Pandas
 - Scikit-Learn
 - Matplotlib
@@ -23,7 +23,7 @@ This repository contains the code and data used for the Datahack 2024 project, p
    ```
 2. Install the required packages:
    ```sh
-   pip install pandas scikit-learn matplotlib
+   pip install numpy pandas scikit-learn matplotlib
    ```
 
 ## Usage
